@@ -10,10 +10,6 @@ bin/
 frontend/dist/
 backend/target/
 
-# Local page changes
-frontend/src/pages/Dashboard.jsx
-frontend/src/pages/Home.jsx
-
 # Local Environment Variables
 .env
 .env.local
